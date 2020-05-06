@@ -1,0 +1,22 @@
+{
+  "objectList": [
+    {
+      "value": "SomeValueOne",
+      "description": "This is my first description for SomeValueOne",
+      "status": "Suspicious",
+      "type": "Bank"
+    },
+    {
+      "value": "SecondRecord",
+      "description": "SecondDescription",
+      "type": "Person",
+      "status": "Active"
+    },
+    {
+      "value": "3rd company",
+      "description": "SecondDescription",
+      "type": "Person",
+      "status": "Suspicious"
+    }
+  ]
+}
